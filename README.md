@@ -1,1 +1,3 @@
-HackerRank_Algorithms
+www.hackerRank.com
+> Practice
+> Algorithms
