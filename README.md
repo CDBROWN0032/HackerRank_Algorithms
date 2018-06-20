@@ -1,3 +1,3 @@
-www.hackerRank.com
-> Practice
-> Algorithms
+https://www.hackerrank.com/domains/algorithms
+
+c#
